@@ -1,0 +1,26 @@
+export const collegeData = [
+    {
+        collegeName:'SCOE',
+        image:require("../../assets/krushna.jpg"),
+    },
+    {
+        collegeName:'SCOE',
+        image:require("../../assets/krushna.jpg"),
+    },
+    {
+        collegeName:'SCOE',
+        image:require("../../assets/krushna.jpg"),
+    },
+    {
+        collegeName:'SCOE',
+        image:require("../../assets/krushna.jpg"),
+    },
+    {
+        collegeName:'SCOE',
+        image:require("../../assets/krushna.jpg"),
+    },
+    {
+        collegeName:'SCOE',
+        image:require("../../assets/krushna.jpg"),
+    }
+]
